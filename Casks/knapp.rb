@@ -2,10 +2,10 @@ cask "knapp" do
   version :latest
   sha256 :no_check
 
-  url "https://github.com/olly-j/knapp-keyboard/releases/latest/download/Knapp-macOS-latest.zip"
+  url "https://github.com/olly-j/homebrew-knapp/releases/latest/download/Knapp-macOS-latest.zip"
   name "Knapp"
   desc "Menu bar typing receiver for Knapp"
-  homepage "https://github.com/olly-j/knapp-keyboard"
+  homepage "https://github.com/olly-j/homebrew-knapp"
 
   app "Knapp.app"
 
